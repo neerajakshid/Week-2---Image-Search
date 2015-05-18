@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="search">Search</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="image_title"> Image Title</string>
+    <string name="title_activity_image_display">Full Image</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_full_screen_image">Full Screen Image</string>
+    <string name="tvImageSize">Image Size</string>
+    <string name="tvImageColor">Image Color</string>
+    <string name="tvImageType">Image Type</string>
+    <string name="tvSiteFilter">Site Filter</string>
+    <string name="advanced_search">Advanced Search </string>
+    <string name="bOk">Save</string>
+    <string name="bCancel">Cancel</string>
+    <string name="bClose">Close</string>
+    <string name="network_error">Unable to connect to internet</string>
+    <string name="image_load_error">Problem loading the image</string>
+    <string name="site_filter_hint">google.com</string>
+    <string name="column_count">3</string>
+
+
+<!-- Array for Image Size -->
+    <string-array name="imageSize_array">
+        <item>All</item>
+        <item>icon</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+        <item>xxlarge</item>
+        <item>huge</item>
+    </string-array>
+
+    <!-- Array for Image Color -->
+    <string-array name="imageColor_array">
+        <item>All</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    <!-- Array for Image Type -->
+    <string-array name="imageType_array">
+        <item>All</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+    <string name="title_activity_full_screen">FullScreenActivity</string>
+</resources>
