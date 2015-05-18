@@ -22,8 +22,9 @@ Time Spent: ~15 Hours
 [x] Advanced: Improve the user interface and experiment with image assets and/or styling and coloring<br/>
 [x] Bonus: Use the StaggeredGridView to display improve the grid of image results<br/>
 [x] Bonus: User can zoom or pan images displayed in full-screen detail view<br/>
-[x] Improved the performance of the ListView using ViewHolder pattern<br/>
-[x] Implemented Parcelable interface
+[x] Extra: Improved the performance of the ListView using ViewHolder pattern<br/>
+[x] Extra: Implemented Parcelable interface
+[x] Extra: Progress Bar shows up when loading Full Screen Image
 
 <b>User Story Walkthrough </b><br/><br/>
 
