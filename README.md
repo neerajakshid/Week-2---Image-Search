@@ -25,6 +25,7 @@ Time Spent: ~15 Hours
 [x] Extra: Improved the performance of the ListView using ViewHolder pattern<br/>
 [x] Extra: Implemented Parcelable interface
 [x] Extra: Progress Bar shows up when loading Full Screen Image
+[x] Extra: Enabled Soft Keyboard to close after the input is entered
 
 <b>User Story Walkthrough </b><br/><br/>
 
