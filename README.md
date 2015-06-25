@@ -2,7 +2,7 @@
 Week 2 - Image Search
 
 
-This is an andorid application which allows users to check out popular posts (photos/videos) on instagram.
+This is an andorid application for displaying images from Google Image Searcher API based on user’s search query.
 
 Time Spent: ~15 Hours
 
